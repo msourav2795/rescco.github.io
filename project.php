@@ -26,7 +26,7 @@
                   
                   header("location:new.php");
                }else {
-                  $msg='Wrong username or password<br>Hint: sourav 1234';
+                  $msg='Wrong Hint: sourav 1234';
 				  	
                }
             }
@@ -106,7 +106,7 @@
 	<body style="height:90%;padding:10px;width:95%;background-color:#ECEDEF">
 	<div></div>
 		<div style="margin:0 auto;padding-bottom: 20px;height:40px;width:110px;"><h3>LOGO</h3></div>
-		<div class="effect" style="background-color:white;border:2px solid black;margin:auto;height:74%;width:50%;min-height:460px;min-width:300px;position:relative;">
+		<div class="effect" style="background-color:white;border:2px solid black;margin:auto;height:79%;width:50%;min-height:480px;min-width:300px;position:relative;">
 		 <main class="mdl-layout__content" style="width:100%;position:relative">    
 			<div class="mdl-tabs mdl-js-tabs" >
 				<div class="mdl-tabs__tab-bar"  >
